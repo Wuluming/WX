@@ -1,0 +1,6 @@
+framework module Pods_WX {
+  umbrella header "Pods-WX-umbrella.h"
+
+  export *
+  module * { export * }
+}
